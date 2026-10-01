@@ -20,8 +20,7 @@ A low-cost embedded system that checks whether food has started to spoil by sens
 - [Calibration Tips](#calibration-tips)
 - [Limitations](#limitations)
 - [Future Improvements](#future-improvements)
-- [Author](#author)
-- [License](#license)
+
 
 ---
 
